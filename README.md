@@ -1,5 +1,6 @@
 - 👋 Hi, I’m alam
 - 👀 I’m interested in Computer Science and Software Engineering
+- I'm currently in the Karim Kharbouch Coding Fellowship from The Knowledge House
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alam#4108/alam101 (discord)
 
